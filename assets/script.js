@@ -33,3 +33,7 @@ const vegetables = [
 let randomVegetable = vegetables[Math.floor(Math.random() * vegetables.length)];
 
 console.log(randomVegetable);
+
+// Make an array from random ingredients
+
+let randomIngredients = [ randomNoodle, randomSauce, randomMeat, randomVegetable, ];
