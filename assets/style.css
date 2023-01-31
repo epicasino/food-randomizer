@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    padding: 5px;
+    border: 5px solid gray; 
+}
+
+#pasta-ingredient-generator {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border: 5px solid gray; 
+}
