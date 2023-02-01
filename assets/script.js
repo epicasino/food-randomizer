@@ -37,3 +37,8 @@ console.log(randomVegetable);
 // Make an array from random ingredients
 
 let randomIngredients = [ randomNoodle, randomSauce, randomMeat, randomVegetable, ];
+
+document.getElementById('resultNoodle').innerHTML = randomIngredients[0];
+document.getElementById('resultSauce').innerHTML = randomIngredients[1];
+document.getElementById('resultMeat').innerHTML = randomIngredients[2];
+document.getElementById('resultVegetable').innerHTML = randomIngredients[3];
