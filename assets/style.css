@@ -14,40 +14,30 @@ h6 {
 
 #pasta-ingredient-generator {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     padding: 5px;
     border: 5px solid gray; 
 }
 
 #resultNoodle {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     border: 5px solid yellow;
     max-height: 75px;
 }
 
 #resultSauce {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     border: 5px solid red;
     max-height: 75px;
 }
 
 #resultMeat {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     border: 5px solid brown;
     max-height: 75px;
 }
 
 #resultVegetable {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     border: 5px solid green;
     max-height: 75px;
 }
