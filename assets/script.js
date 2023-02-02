@@ -17,8 +17,8 @@ let randomSauce = sauces[Math.floor(Math.random() * sauces.length)];
 console.log(randomSauce);
 
 const meats = [
-    'Ground beef', 'Beef meatballs', 'Ground turkey',
-    'Ground meatballs', 'Bacon', 'Cut sausage',
+    'Beef', 'Sausage',
+    'Chicken', 'Meatball',
 ];
 
 let randomMeat = meats[Math.floor(Math.random() * meats.length)];
